@@ -19,7 +19,7 @@
 
 - <img height=36 align=center src=assets/me3.gif>  How to reach me **akashsamamidi13@gmail.com**
 
-- <img height=36 align=center src=assets/fun.gif> Fun fact **I am a crazy About My Carrer**
+- <img height=36 align=center src=assets/fun.gif> Fun fact **I am a crazy About My Career**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
