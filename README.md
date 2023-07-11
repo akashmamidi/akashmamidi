@@ -7,7 +7,7 @@
 
 - <img height=36 align=center src=assets/work3.gif>  I’m currently Finding Job on **Digital Marketing**
 
-- <img height=36 align=center src=work2.gif>  I’m currently learning **New Technologies**
+- <img height=36 align=center src=work2.gif>  I’m currently learning **Digital Marketing**
 
 - <img height=36 align=center src=assets/colab.gif>  I’m looking to collaborate on **New Technologies**
 
