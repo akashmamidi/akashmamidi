@@ -5,7 +5,7 @@
 <h3 align="center">A Enthusiastic fresher engineer from India</h3>
 
 
-- <img height=36 align=center src=assets/work3.gif>  I’m currently working on **Full Stack Java Developer**
+- <img height=36 align=center src=assets/work3.gif>  I’m currently Finding Job on **Digital Marketing**
 
 - <img height=36 align=center src=work2.gif>  I’m currently learning **New Technologies**
 
@@ -19,7 +19,7 @@
 
 - <img height=36 align=center src=assets/me3.gif>  How to reach me **akashsamamidi13@gmail.com**
 
-- <img height=36 align=center src=assets/fun.gif> Fun fact **I am a Lazy Programmer**
+- <img height=36 align=center src=assets/fun.gif> Fun fact **I am a crazy About My Carrer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
